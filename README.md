@@ -1,6 +1,8 @@
 # Smart Alarm App
 
-A Flutter-based alarm app with smart features like question-based dismissal and notification scheduling.
+A Flutter-based alarm app with smart features like question-based dismissal and notification scheduling. 
+
+This app uses API from opentdb.com to load questions from their server.
 
 ## Features
 - Set alarms with custom sounds
